@@ -1,11 +1,10 @@
 <div align="center">
   <h1>Hi there, I'm Bagas 👋</h1>
-  <p><strong>Computer Science Student • Java & Software Engineering Enthusiast</strong></p>
+  <p><strong>Informatics Engineering Student • Java & Software Engineering Enthusiast</strong></p>
 
   <p>
-    <a href="https://github.com/ajirasend">
-      <img src="https://komarev.com/ghpvc/?username=ajirasend&style=flat-square&color=blue" alt="Profile views" />
-    </a>
+    <img src="https://img.shields.io/badge/Focus-Core%20Java%20%26%20OOP-ED8B00?style=flat-square" alt="Focus" />
+    <img src="https://img.shields.io/badge/Status-Actively%20Building-2563EB?style=flat-square" alt="Status" />
   </p>
 </div>
 
