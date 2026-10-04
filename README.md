@@ -15,7 +15,7 @@
 - 🎓 **University Student** exploring the fundamentals of Software Engineering and Computer Science.
 - ☕ **Passionate about Java & Software Craftsmanship**: Focusing on clean Object-Oriented Design (OOP), Design Patterns, and Test-Driven Development.
 - 🛠️ **Desktop & Data Applications**: Hands-on experience developing Java Swing applications with custom file persistence and relational databases (SQL Server).
-- 🎮 **Game Development Experience**: Contributed as a gameplay and UI programmer for 2D games using Unity and C# at RAION Academy.
+- 🎮 **Game Development Experience**: Contributed as a gameplay and UI programmer for 2D games using Unity and C#.
 - 🎯 **Goals**: Deepening understanding of Data Structures & Algorithms, Clean Architecture, and Backend Development.
 
 ---
