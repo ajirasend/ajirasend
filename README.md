@@ -13,8 +13,9 @@
 ### 👨‍💻 About Me
 
 - 🎓 **University Student** exploring the fundamentals of Software Engineering and Computer Science.
-- ☕ **Passionate about Java**: Focusing on clean Object-Oriented Design (OOP), Design Patterns, and Test-Driven Development.
-- 🛠️ **Building Desktop & Data Applications**: Hands-on experience developing Java Swing applications with custom file persistence and relational databases (SQL Server).
+- ☕ **Passionate about Java & Software Craftsmanship**: Focusing on clean Object-Oriented Design (OOP), Design Patterns, and Test-Driven Development.
+- 🛠️ **Desktop & Data Applications**: Hands-on experience developing Java Swing applications with custom file persistence and relational databases (SQL Server).
+- 🎮 **Game Development Experience**: Contributed as a gameplay and UI programmer for 2D games using Unity and C# at RAION Academy.
 - 🎯 **Goals**: Deepening understanding of Data Structures & Algorithms, Clean Architecture, and Backend Development.
 
 ---
@@ -26,13 +27,15 @@
     <td align="center" width="120"><b>Languages</b></td>
     <td>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
     </td>
   </tr>
   <tr>
-    <td align="center" width="120"><b>Frameworks & GUI</b></td>
+    <td align="center" width="120"><b>Frameworks & Engines</b></td>
     <td>
       <img src="https://img.shields.io/badge/Java%20Swing-007396?style=flat-square" alt="Swing" />
       <img src="https://img.shields.io/badge/FlatLaf-Modern%20Look-2563EB?style=flat-square" alt="FlatLaf" />
+      <img src="https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
     </td>
   </tr>
   <tr>
@@ -77,6 +80,19 @@
         <img src="https://img.shields.io/badge/Java-Swing-007396?style=flat-square" />
         <img src="https://img.shields.io/badge/Database-SQL%20Server-CC292B?style=flat-square" />
         <img src="https://img.shields.io/badge/Pattern-DAO%20Architecture-brightgreen?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🚀 <a href="https://github.com/HNadhif/Project-RAION">Project-RAION-FilkomZ</a> <i>(Team Collaboration)</i></h3>
+      <p>A 2D side-scrolling space shooter game (R-Type inspired) developed for RAION Academy. Implemented responsive player controls, dash/dodging mechanics, multi-type projectile & bomb systems, enemy waves, sound integration, and UI.</p>
+      <p>
+        <b>Role:</b> Programmer & UI &nbsp;|&nbsp;
+        <img src="https://img.shields.io/badge/Engine-Unity-100000?style=flat-square&logo=unity&logoColor=white" />
+        <img src="https://img.shields.io/badge/Language-C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+        <img src="https://img.shields.io/badge/Org-RAION%20Academy-FF5722?style=flat-square" />
+        <img src="https://img.shields.io/badge/Genre-2D%20Shooter-blueviolet?style=flat-square" />
       </p>
     </td>
   </tr>
