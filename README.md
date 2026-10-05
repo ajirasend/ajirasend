@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Hi there, I'm Bagas 👋</h1>
-  <p><strong>Informatics Engineering Student • Java & Software Engineering Enthusiast</strong></p>
+  <h1>Hi there, I'm Bagas</h1>
+  <p><strong>Informatics Engineering Student • Java & Software Engineer</strong></p>
 
   <p>
     <img src="https://img.shields.io/badge/Focus-Core%20Java%20%26%20OOP-ED8B00?style=flat-square" alt="Focus" />
@@ -121,10 +121,4 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ajirasend&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajirasend&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</div>
-
----
-
-<div align="center">
-  <p><i>Always learning, building, and exploring new challenges.</i></p>
 </div>
