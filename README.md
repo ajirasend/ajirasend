@@ -79,7 +79,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🐔 <a href="https://github.com/ajirasend/FarmManager">Farm Manager</a></h3>
+      <h3>🐔 <a href="https://github.com/ajirasend/FarmManager">Farm Manager</a> <i>(Collab)</i></h3>
       <p>A desktop poultry farm and egg harvest management system with full CRUD capabilities, relational foreign-key validation, and Data Access Object (DAO) architecture.</p>
       <p>
         <img src="https://img.shields.io/badge/Java-Swing-007396?style=flat-square" />
