@@ -82,6 +82,7 @@
       <h3>🐔 <a href="https://github.com/ajirasend/FarmManager">Farm Manager</a> <i>(Collab)</i></h3>
       <p>A desktop poultry farm and egg harvest management system with full CRUD capabilities, relational foreign-key validation, and Data Access Object (DAO) architecture.</p>
       <p>
+        <b>Role:</b> Lead Developer<br />
         <img src="https://img.shields.io/badge/Java-Swing-007396?style=flat-square" />
         <img src="https://img.shields.io/badge/Database-SQL%20Server-CC292B?style=flat-square" />
         <img src="https://img.shields.io/badge/Pattern-DAO%20Architecture-brightgreen?style=flat-square" />
@@ -103,7 +104,7 @@
       <h3>📋 <a href="https://github.com/bilhaqschrodinger/Habit-TrackersBiBa">Habit-TrackersBiBa</a> <i>(Collab)</i></h3>
       <p>A standalone desktop habit tracker for Windows featuring zero-login multi-profile management, category/frequency filters, automatic consistency streak calculation, and local offline JSON persistence.</p>
       <p>
-        <b>Role:</b> Collaborator<br />
+        <b>Role:</b> Backend & Frontend<br />
         <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
         <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
         <img src="https://img.shields.io/badge/HTML5%20%2F%20CSS3-E34F26?style=flat-square" />
