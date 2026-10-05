@@ -14,9 +14,9 @@
 
 - 🎓 **University Student** exploring the fundamentals of Software Engineering and Computer Science.
 - ☕ **Passionate about Java & Software Craftsmanship**: Focusing on clean Object-Oriented Design (OOP), Design Patterns, and Test-Driven Development.
-- 🛠️ **Desktop & Data Applications**: Hands-on experience developing Java Swing applications with custom file persistence and relational databases (SQL Server).
+- 🛠️ **Desktop & Web Applications**: Hands-on experience developing Java Swing, web-based, and Electron applications with local persistence and relational databases (SQL Server).
 - 🎮 **Game Development Experience**: Contributed as a gameplay and UI programmer for 2D games using Unity and C#.
-- 🎯 **Goals**: Deepening understanding of Data Structures & Algorithms, Clean Architecture, and Backend Development.
+- 🎯 **Goals**: Deepening understanding of Data Structures & Algorithms, Clean Architecture, and Software Engineering principles.
 
 ---
 
@@ -28,6 +28,9 @@
     <td>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
       <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
     </td>
   </tr>
   <tr>
@@ -36,6 +39,8 @@
       <img src="https://img.shields.io/badge/Java%20Swing-007396?style=flat-square" alt="Swing" />
       <img src="https://img.shields.io/badge/FlatLaf-Modern%20Look-2563EB?style=flat-square" alt="FlatLaf" />
       <img src="https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
+      <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
     </td>
   </tr>
   <tr>
@@ -84,15 +89,25 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
-      <h3>🚀 <a href="https://github.com/HNadhif/Project-RAION">Project-RAION-FilkomZ</a> <i>(Team Collaboration)</i></h3>
+    <td width="50%" valign="top">
+      <h3>🚀 <a href="https://github.com/HNadhif/Project-RAION">Project-RAION-FilkomZ</a> <i>(Collab)</i></h3>
       <p>A 2D side-scrolling space shooter game (R-Type inspired) developed for RAION Academy. Implemented responsive player controls, dash/dodging mechanics, multi-type projectile & bomb systems, enemy waves, sound integration, and UI.</p>
       <p>
-        <b>Role:</b> Programmer & UI &nbsp;|&nbsp;
-        <img src="https://img.shields.io/badge/Engine-Unity-100000?style=flat-square&logo=unity&logoColor=white" />
-        <img src="https://img.shields.io/badge/Language-C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
-        <img src="https://img.shields.io/badge/Org-RAION%20Academy-FF5722?style=flat-square" />
-        <img src="https://img.shields.io/badge/Genre-2D%20Shooter-blueviolet?style=flat-square" />
+        <b>Role:</b> Programmer & UI<br />
+        <img src="https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white" />
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+        <img src="https://img.shields.io/badge/RAION-Academy-FF5722?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📋 <a href="https://github.com/bilhaqschrodinger/Habit-TrackersBiBa">Habit-TrackersBiBa</a> <i>(Collab)</i></h3>
+      <p>A standalone desktop habit tracker for Windows featuring zero-login multi-profile management, category/frequency filters, automatic consistency streak calculation, and local offline JSON persistence.</p>
+      <p>
+        <b>Role:</b> Collaborator<br />
+        <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/HTML5%20%2F%20CSS3-E34F26?style=flat-square" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       </p>
     </td>
   </tr>
